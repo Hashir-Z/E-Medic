@@ -21,49 +21,49 @@ E-Medic is a medical management system that is built using C#, and includes vari
 # Screenshots
 
 ### Splash Screen
-![Splash Screen](/images/SplashScreen.png)
+![Splash Screen](/Images/SplashScreen.png)
 
 ### Main Menu
-![Main Menu](/images/MainMenu.png)
+![Main Menu](/Images/MainMenu.png)
 
 ### Patient Sign Up
-![Patient Sign Up](/images/PatientSignUpPanel.png)
+![Patient Sign Up](/Images/PatientSignUpPanel.png)
 
 ### Patient/Admin Login
-![Patient/Admin Login](/images/Patient-AdminLoginPanel.png)
+![Patient/Admin Login](/Images/Patient-AdminLoginPanel.png)
 
 ### Patient Forgot Password
-![Patient Forgot Password](/images/PatientForgotPasswordPanel.png)
+![Patient Forgot Password](/Images/PatientForgotPasswordPanel.png)
 
 ### Patient Dashboard
-![Patient Dashboard](/images/PatientDashboard.png)
+![Patient Dashboard](/Images/PatientDashboard.png)
 
 ### Patient Blood Test Order
-![Patient Blood Test Order](/images/PatientBloodTestPanel.png)
+![Patient Blood Test Order](/Images/PatientBloodTestPanel.png)
 
 ### Patient Reports
-![Patient Reports](/images/PatientReportsPanel.png)
+![Patient Reports](/Images/PatientReportsPanel.png)
 
 ### Patient Payments Due
-![Patient Payments Due](/images/PatientPaymentsDuePanel.png)
+![Patient Payments Due](/Images/PatientPaymentsDuePanel.png)
 
 ### Patient Appointments
-![Patient Appointments](/images/PatientAppointmentsPanel.png)
+![Patient Appointments](/Images/PatientAppointmentsPanel.png)
 
 ### Patient Appointment Records
-![Patient Appointment Records](/images/PatientAppointmentRecordsPanel.png)
+![Patient Appointment Records](/Images/PatientAppointmentRecordsPanel.png)
 
 ### Patient Profile Edit/Info
-![Patient Profile Edit/Info](/images/PatientProfileInfoPanel.png)
+![Patient Profile Edit/Info](/Images/PatientProfileInfoPanel.png)
 
 ### Admin Dashboard
-![Admin Dashboard](/images/AdminDashboard.png)
+![Admin Dashboard](/Images/AdminDashboard.png)
 
 ### Admin Result Management Panel
-![Admin Result Management Panel](/images/AdminResultManagementPanel.png)
+![Admin Result Management Panel](/Images/AdminResultManagementPanel.png)
 
 ### Admin Doctor Management Panel
-![Admin Doctor Management Panel](/images/AdminDoctorManagementPanel.png)
+![Admin Doctor Management Panel](/Images/AdminDoctorManagementPanel.png)
 
 ### Admin Appointment Management Panel
-![Admin Appointment Management Panel](/images/AdminAppointmentManagementPanel.png)
+![Admin Appointment Management Panel](/Images/AdminAppointmentManagementPanel.png)
