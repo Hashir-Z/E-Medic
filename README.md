@@ -21,33 +21,49 @@ E-Medic is a medical management system that is built using C#, and includes vari
 # Screenshots
 
 ### Splash Screen
+![Splash Screen](/images/SplashScreen.png)
 
 ### Main Menu
+![Main Menu](/images/MainMenu.png)
 
-### Sign Up
+### Patient Sign Up
+![Patient Sign Up](/images/PatientSignUpPanel.png)
 
-### Login
+### Patient/Admin Login
+![Patient/Admin Login](/images/Patient-AdminLoginPanel.png)
+
+### Patient Forgot Password
+![Patient Forgot Password](/images/PatientForgotPasswordPanel.png)
 
 ### Patient Dashboard
+![Patient Dashboard](/images/PatientDashboard.png)
 
 ### Patient Blood Test Order
+![Patient Blood Test Order](/images/PatientBloodTestPanel.png)
 
 ### Patient Reports
+![Patient Reports](/images/PatientReportsPanel.png)
 
 ### Patient Payments Due
+![Patient Payments Due](/images/PatientPaymentsDuePanel.png)
 
 ### Patient Appointments
+![Patient Appointments](/images/PatientAppointmentsPanel.png)
 
 ### Patient Appointment Records
+![Patient Appointment Records](/images/PatientAppointmentRecordsPanel.png)
 
 ### Patient Profile Edit/Info
+![Patient Profile Edit/Info](/images/PatientProfileInfoPanel.png)
 
 ### Admin Dashboard
+![Admin Dashboard](/images/AdminDashboard.png)
 
 ### Admin Result Management Panel
+![Admin Result Management Panel](/images/AdminResultManagementPanel.png)
 
 ### Admin Doctor Management Panel
+![Admin Doctor Management Panel](/images/AdminDoctorManagementPanel.png)
 
 ### Admin Appointment Management Panel
-
-### Admin Appointment Management Panel
+![Admin Appointment Management Panel](/images/AdminAppointmentManagementPanel.png)
