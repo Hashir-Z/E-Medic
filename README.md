@@ -1,6 +1,8 @@
 # E-Medic
 E-Medic is a medical management system that is built using C#, and includes various functions that make the life of medical staff as well as paitents and doctors easier by providing an all in one system.
 
+PLEASE NOTE: In order to run the project successfully, make sure you add the nuget package "Syncfusion.Pdf.WinForms.19.1.0.65" for it to work properly!
+
 ## Patient-Oriented Features
 
 - Sign up portal with input data validation
